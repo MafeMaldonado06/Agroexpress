@@ -13,4 +13,5 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="title_activity_home">HomeActivity</string>
     <string name="title_activity_splash2">SplashActivity2</string>
+    <string name="textButton"> <u> QUIERES SER PARTE DE AGROEXPRESS</u></string>
 </resources>
