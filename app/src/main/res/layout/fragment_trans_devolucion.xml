@@ -20,7 +20,7 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:background="@drawable/fondo2">
+        android:background="@drawable/fondo">
 
     </ImageView>
 
@@ -139,45 +139,6 @@
     </LinearLayout>
 
 
-    <com.google.android.material.appbar.CollapsingToolbarLayout
-        android:layout_width="match_parent"
-        android:layout_height="60dp"
-        android:layout_marginTop="671dp"
-        android:background="@color/green">
-        <ImageView
-            android:layout_width="50dp"
-            android:layout_height="wrap_content"
-            android:src="@drawable/camion"
-            android:layout_marginLeft="350dp">
-
-        </ImageView>
-        <ImageView
-            android:layout_width="50dp"
-            android:layout_height="60dp"
-            android:src="@drawable/paquete"
-            android:layout_marginLeft="260dp"
-            android:layout_marginTop="2dp">
-
-        </ImageView>
-        <ImageView
-            android:layout_width="50dp"
-            android:layout_height="60dp"
-            android:src="@drawable/cajadedevolucion"
-            android:layout_marginLeft="150dp"
-            android:layout_marginTop="2dp">
-
-        </ImageView>
-        <ImageView
-            android:layout_width="50dp"
-            android:layout_height="60dp"
-            android:src="@drawable/cajadeentrega"
-            android:layout_marginLeft="40dp"
-            android:layout_marginTop="2dp">
-
-        </ImageView>
-
-
-    </com.google.android.material.appbar.CollapsingToolbarLayout>
 
 
 
