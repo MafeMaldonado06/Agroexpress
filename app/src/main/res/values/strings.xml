@@ -14,4 +14,7 @@
     <string name="title_activity_home">HomeActivity</string>
     <string name="title_activity_splash2">SplashActivity2</string>
     <string name="textButton"> <u> QUIERES SER PARTE DE AGROEXPRESS</u></string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="textButton2"> <u>SI NO CUENTA CON UNA CUENTA, POR FAVOR INGRESE A REGISTRAR</u></string>
 </resources>
