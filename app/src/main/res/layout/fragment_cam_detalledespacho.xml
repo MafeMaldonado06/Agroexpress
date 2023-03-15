@@ -14,17 +14,12 @@
 
     </ImageView>
 
-
-
-
     <LinearLayout
         android:layout_width="360dp"
         android:layout_height="500dp"
         android:layout_marginTop="130dp"
         android:layout_marginStart="25dp"
         android:background="@drawable/bordeverde">
-
-
 
         <ImageView
             android:layout_width="30dp"
@@ -44,7 +39,6 @@
 
         </ImageView>
 
-
         <TextView
             android:layout_width="100dp"
             android:layout_height="50dp"
@@ -54,6 +48,7 @@
             android:textColor="@color/green"
             android:textStyle="bold">
         </TextView>
+
         <TextView
             android:layout_width="180dp"
             android:layout_height="40dp"
@@ -64,7 +59,6 @@
             android:textColor="@color/green"
             android:textStyle="bold">
         </TextView>
-
 
         <TextView
             android:layout_width="250dp"
@@ -97,7 +91,6 @@
 
         </TextView>
 
-
         <TextView
             android:layout_width="80dp"
             android:layout_height="60dp"
@@ -119,10 +112,5 @@
         </TextView>
 
     </LinearLayout>
-
-
-
-
-
 
 </FrameLayout>

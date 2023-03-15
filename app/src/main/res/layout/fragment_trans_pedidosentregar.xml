@@ -32,15 +32,14 @@
         android:layout_marginTop="130dp"
         android:layout_marginStart="25dp"
         android:background="@drawable/bordeverde">
+
         <ImageView
             android:layout_width="130dp"
             android:layout_height="100dp"
             android:layout_marginStart="30dp"
             android:layout_marginTop="20dp"
             android:src="@drawable/manzanas">
-
         </ImageView>
-
 
         <TextView
             android:layout_width="200dp"
@@ -51,6 +50,7 @@
             android:textColor="@color/black"
             android:textStyle="bold">
         </TextView>
+
         <TextView
             android:layout_width="150dp"
             android:layout_height="50dp"
@@ -61,6 +61,7 @@
             android:textColor="@color/black"
             android:textStyle="bold">
         </TextView>
+
         <TextView
             android:layout_width="100dp"
             android:layout_height="50dp"
@@ -70,6 +71,7 @@
             android:textColor="@color/green"
             android:textStyle="bold">
         </TextView>
+
         <Button
             android:layout_width="110dp"
             android:layout_height="40dp"
@@ -108,10 +110,6 @@
 
         </Button>
 
-
-
-
-
         <ImageView
             android:layout_width="130dp"
             android:layout_height="100dp"
@@ -131,6 +129,7 @@
             android:textStyle="bold"
             >
         </TextView>
+
         <TextView
             android:layout_width="150dp"
             android:layout_height="50dp"
@@ -141,6 +140,7 @@
             android:textColor="@color/black"
             android:textStyle="bold">
         </TextView>
+
         <TextView
             android:layout_width="100dp"
             android:layout_height="50dp"
@@ -150,7 +150,6 @@
             android:textColor="@color/green"
             android:textStyle="bold">
         </TextView>
-
 
         <Button
             android:layout_width="110dp"
