@@ -5,7 +5,16 @@
     android:layout_height="match_parent"
     tools:context=".TransPedidosentregarFragment">
 
-    <!-- TODO: Update blank fragment layout -->
+
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:background="@drawable/fondo">
+
+    </ImageView>
+
     <TextView
         android:layout_width="350dp"
         android:layout_height="60dp"
@@ -16,14 +25,8 @@
         android:textStyle="bold"
         android:background="@color/black"
         android:textColor="@color/white"
+        android:alpha="0.7"
         />
-
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:background="@drawable/fondo">
-
-    </ImageView>
 
     <LinearLayout
         android:layout_width="360dp"
