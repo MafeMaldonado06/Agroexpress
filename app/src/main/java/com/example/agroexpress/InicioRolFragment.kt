@@ -34,7 +34,7 @@ class InicioRolFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_inicio_rol, container, false)
+        return inflater.inflate(R.layout.activity_inicio_roles, container, false)
     }
 
     companion object {
