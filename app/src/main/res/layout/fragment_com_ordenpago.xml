@@ -237,7 +237,7 @@
                             android:layout_marginLeft="10dp"/>
 
                         <Spinner
-                            android:id="@+id/spinner"
+                            android:id="@+id/spinner_pago"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_weight="1" />
