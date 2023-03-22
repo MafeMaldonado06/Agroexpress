@@ -8,17 +8,12 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="green">#3D8A3F</color>
-<<<<<<< HEAD
     <color name="green2">#A0E1A2</color>
     <color name="gris">#C7C8C7</color>
-=======
     <color name="red">#F63030</color>
-    <color name="gris">#636161</color>
     <color name="verdeclaro">#A7ECA9</color>
     <color name="blanco_gris">#E4E3E3</color>
-<<<<<<< HEAD
-    <color name="gris">#AAA8A8</color>
->>>>>>> master
-=======
->>>>>>> master
+
+
+
 </resources>

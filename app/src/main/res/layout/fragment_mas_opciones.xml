@@ -51,7 +51,6 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="gone"
             android:text="Ver mis productos"
             android:textAlignment="textStart"
             android:layout_marginTop="15dp"
@@ -60,7 +59,6 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="gone"
             android:text="ver mis despachos"
             android:textAlignment="textStart"
             android:layout_marginHorizontal="10dp"/>
@@ -68,7 +66,6 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="gone"
             android:text="ver mis ordenes de entrega"
             android:textAlignment="textStart"
             android:layout_marginHorizontal="10dp"/>
@@ -76,7 +73,6 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="gone"
             android:text="ver mis pedidos"
             android:textAlignment="textStart"
             android:layout_marginHorizontal="10dp"/>
