@@ -90,7 +90,7 @@
             android:layout_height="20dp"
             android:layout_marginTop="165dp"
             android:layout_marginLeft="-70dp"
-            android:src="@drawable/eliminar">
+            android:src="@drawable/cerrar_rojo">
 
         </ImageView>
 

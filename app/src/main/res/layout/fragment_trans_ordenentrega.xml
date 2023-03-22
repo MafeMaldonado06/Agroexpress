@@ -5,8 +5,6 @@
     android:layout_height="match_parent"
     tools:context=".TransOrdenentregaFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
@@ -39,9 +37,9 @@
 
 
     <TextView
-        android:layout_width="120dp"
+        android:layout_width="wrap_content"
         android:layout_height="20dp"
-        android:text="Datos de Entrega"
+        android:text="DATOS DE ENTREGA"
         android:layout_marginTop="75dp"
         android:layout_marginLeft="100dp"
         android:textColor="@color/green">
@@ -73,14 +71,13 @@
 
     </TextView>
 
-    <ImageView
+    <View
         android:layout_width="250dp"
-        android:layout_height="30dp"
-        android:layout_marginTop="170dp"
-        android:layout_marginLeft="80dp"
-        android:src="@drawable/Line">
-
-    </ImageView>
+        android:layout_height="2dp"
+        android:background="@color/green"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_gravity="center"/>
 
     <ImageView
         android:layout_width="110dp"
@@ -168,14 +165,15 @@
 
     </TextView>
 
-    <ImageView
+    <View
         android:layout_width="250dp"
-        android:layout_height="30dp"
-        android:layout_marginTop="405dp"
-        android:layout_marginLeft="80dp"
-        android:src="@drawable/Line">
+        android:layout_height="2dp"
+        android:background="@color/green"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="10dp"
+        android:layout_gravity="center"/>
 
-    </ImageView>
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
