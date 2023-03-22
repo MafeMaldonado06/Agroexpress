@@ -82,7 +82,7 @@
             android:layout_marginLeft="-280dp"
             android:text="ENTREGADO"
             android:textColor="@color/red"
-            android:background="tr">
+            android:background="@color/transparente">
 
         </Button>
         <ImageView
