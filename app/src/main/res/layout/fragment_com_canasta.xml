@@ -50,7 +50,6 @@
                 android:layout_width="300dp"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:alpha="0.9"
                 android:layout_marginTop="20dp"
                 app:cardCornerRadius="20dp"
                 app:cardBackgroundColor="@color/blanco_gris">
@@ -88,6 +87,7 @@
                                 android:text="PRODUCTO"
                                 android:textAlignment="center"
                                 android:textStyle="bold"
+                                android:textColor="@color/black"
                                 android:layout_marginTop="20dp"/>
                             <TextView
                                 android:layout_width="match_parent"
@@ -95,7 +95,19 @@
                                 android:text="PRECIO"
                                 android:textAlignment="center"
                                 android:textStyle="bold"
+                                android:textColor="@color/black"
                                 android:layout_marginTop="5dp"/>
+                            <com.google.android.material.textfield.TextInputEditText
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@color/blancofond"
+                                android:layout_gravity="center"
+                                android:layout_margin="10dp"
+                                android:text="cantidad"
+                                android:textColor="@color/white"
+                                android:textAlignment="center"
+                                android:padding="2dp"/>
+
 
                         </LinearLayout>
                     </LinearLayout>
