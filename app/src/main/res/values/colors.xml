@@ -12,4 +12,5 @@
     <color name="gris">#636161</color>
     <color name="verdeclaro">#A7ECA9</color>
     <color name="blanco_gris">#E4E3E3</color>
+    <color name="transparente">#FFFFF</color>
 </resources>
