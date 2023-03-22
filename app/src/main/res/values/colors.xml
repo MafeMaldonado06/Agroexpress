@@ -13,5 +13,6 @@
     <color name="verdeclaro">#A7ECA9</color>
     <color name="blanco_gris">#E4E3E3</color>
     <color name="blancofond">#BABABA</color>
+    <color name="transparente">#fffff</color>
 </resources>
 
