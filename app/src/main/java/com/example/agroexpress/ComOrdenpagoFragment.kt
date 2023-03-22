@@ -42,10 +42,11 @@ class ComOrdenpagoFragment : Fragment() {
         //return inflater.inflate(R.layout.fragment_cam_editarproducto, container, false)
         val t = inflater.inflate(R.layout.fragment_com_ordenpago, container, false)
         val spinner = t.findViewById<Spinner>(R.id.spinner_pago)
+
         // Create an ArrayAdapter using the string array and a default spinner layout
         ArrayAdapter.createFromResource(
             requireContext(),
-            R.array.planets_array,
+            R.array.planets_array2,
             android.R.layout.simple_spinner_item
         ).also { adapter ->
             // Specify the layout to use when the list of choices appears
