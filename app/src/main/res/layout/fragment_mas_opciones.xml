@@ -43,7 +43,7 @@
                     android:layout_height="wrap_content"
                     android:text="Rol"
                     android:textColor="@color/white"
-                    android:textSize="17dp"
+                    android:textSize="17dp"/>
 
             </LinearLayout>
         </LinearLayout>
