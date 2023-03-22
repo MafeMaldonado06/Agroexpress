@@ -94,76 +94,13 @@
 
         </ImageView>
 
-        <ImageView
-            android:layout_width="250dp"
-            android:layout_height="30dp"
-            android:layout_marginTop="180dp"
-            android:layout_marginLeft="-200dp"
-            android:src="@drawable/Line">
-
-        </ImageView>
-
-
-        <ImageView
-            android:layout_width="130dp"
-            android:layout_height="100dp"
-            android:layout_marginLeft="-280dp"
-            android:layout_marginTop="200dp"
-            android:src="@drawable/pera">
-        </ImageView>
-
-        <TextView
-            android:layout_width="100dp"
-            android:layout_height="50dp"
-            android:text="PERAS"
-            android:textAlignment="center"
-            android:layout_marginTop="200dp"
-            android:layout_marginLeft="50dp"
-            android:textColor="@color/black"
-            android:textStyle="bold"
-            >
-        </TextView>
-
-        <TextView
-            android:layout_width="150dp"
-            android:layout_height="50dp"
-            android:text="CRA 1#17-08        MADRID     CUNDINAMARCA"
-            android:textAlignment="center"
-            android:layout_marginTop="225dp"
-            android:layout_marginLeft="-130dp"
-            android:textColor="@color/black"
-            android:textStyle="bold">
-        </TextView>
-
-        <TextView
-            android:layout_width="100dp"
-            android:layout_height="50dp"
-            android:text="$7.000"
-            android:layout_marginTop="280dp"
-            android:layout_marginLeft="-100dp"
-            android:textColor="@color/green"
-            android:textStyle="bold">
-        </TextView>
-
-        <Button
-            android:layout_width="250dp"
-            android:layout_height="50dp"
-            android:layout_marginTop="310dp"
-            android:layout_marginLeft="-280dp"
-            android:text="ENTREGADO"
-            android:textColor="@color/red"
-            android:background="tr">
-        </Button>
-
-        <ImageView
-            android:layout_width="20dp"
-            android:layout_height="20dp"
-            android:layout_marginTop="325dp"
-            android:layout_marginLeft="-70dp"
-            android:src="@drawable/eliminar">
-
-        </ImageView>
-
     </LinearLayout>
+    <View
+        android:layout_width="290dp"
+        android:layout_height="2dp"
+        android:background="@color/green"
+        android:layout_marginTop="-30dp"
+        android:layout_marginBottom="10dp"
+        android:layout_gravity="center"/>
 
 </FrameLayout>
