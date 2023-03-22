@@ -48,4 +48,10 @@ class RegistrarFragment : Fragment() {
         }
         return t
     }
+
+
+
+
+
+
 }

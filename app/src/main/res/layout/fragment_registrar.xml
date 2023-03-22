@@ -101,27 +101,26 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="70dp"
             android:layout_marginTop="20dp"
-            android:backgroundTint="#FF0000" >
+            android:backgroundTint="#FF0000">
 
         </Spinner>
         <Spinner
-            android:id="@+id/SpinerDepartamento"
-            android:layout_width="match_parent"
-            android:layout_marginLeft="32dp"
-            android:layout_marginRight="32dp"
-            android:layout_marginTop="10dp"
-            android:layout_height="20dp"
-            android:background="@color/gris"
-            />
+            android:id="@+id/ciudadSpiner"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="70dp"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#FF0000"/>
+
         <Spinner
-            android:id="@+id/SpinerCiudad"
-            android:layout_width="match_parent"
-            android:layout_marginLeft="32dp"
-            android:layout_marginRight="32dp"
-            android:layout_marginTop="10dp"
-            android:layout_height="20dp"
-            android:background="@color/gris"
-            />
+            android:id="@+id/departamentoSpiner"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="70dp"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#FF0000">
+
+        </Spinner>
 
 
 
