@@ -71,6 +71,7 @@
                         android:layout_marginLeft="30dp"
                         android:layout_marginTop="10dp"/>
                     <TextView
+                        android:id="@+id/nombreComProducto"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="PRODUCTO"
@@ -78,6 +79,7 @@
                         android:textStyle="bold"
                         android:layout_marginTop="110dp"/>
                     <TextView
+                        android:id="@+id/precioComProducto"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="PRECIO"
@@ -92,6 +94,7 @@
                         android:textStyle="bold"
                         android:layout_marginTop="150dp"/>
                     <TextView
+                        android:id="@+id/cantidadComProducto"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="0"
