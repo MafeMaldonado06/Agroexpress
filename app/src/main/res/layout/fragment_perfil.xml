@@ -31,6 +31,12 @@
                 android:orientation="vertical"
                 android:paddingVertical="20dp">
 
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginLeft="240dp"
+                    android:src="@drawable/ic_baseline_settings_24"/>
+
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
